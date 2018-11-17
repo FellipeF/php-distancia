@@ -1,3 +1,1 @@
-<?php
-
-phpinfo(); // Config do servidor
+<?php phpinfo(); ?>
